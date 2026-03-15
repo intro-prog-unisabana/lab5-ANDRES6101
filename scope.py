@@ -1,5 +1,5 @@
-int_value = None
-str_value = None
+int_value = 0
+str_value = 0
 
 #Almacena un entero global y una cadena de texto global.
 
