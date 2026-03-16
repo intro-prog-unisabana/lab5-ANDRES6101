@@ -19,13 +19,14 @@ def average_steps(total, days=7):
 
 # Function to get maximum steps
 def max_steps(nums):
-    return max(nums)
+    
+ return max(nums)
 
 
 # Function to get minimum steps
 def min_steps(nums):
 
-    return min(nums)
+ return min(nums)
 
 # Fuction to check if each day meets the goal
 def goal_check(nums, goal=10000):
