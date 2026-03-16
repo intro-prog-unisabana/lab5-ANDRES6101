@@ -3,27 +3,28 @@ Lab 5
 /******************************************************************************
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
-Número de horas:
+Número de horas: 6
 
 
 /******************************************************************************
 * ¿Encontraste algún problema serio? Si es así, por favor descríbelo.
 ******************************************************************************/
 
-¿Sí o no?
+Si , tuve muchas complicaciones con la organización de los archivos y los codigos
+ya que algunos eran muy extensos
 
 
 /******************************************************************************
 * Escribe cualquier otro comentario aquí.
 ******************************************************************************/
 
-
+ 
 
 /******************************************************************************
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
+https://github.com/intro-prog-unisabana/lab5-ANDRES6101.git
 
 /******************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
@@ -33,6 +34,6 @@ Número de horas:
  *      Esta tarea de programación representa mi propio trabajo de acuerdo
  *      con las regulaciones de la Universidad.  /s/ Ada Lovelace
  ******************************************************************************/
-
-[escribe y firma la declaración aquí]
+    Esta tarea de programación representa mi propio trabajo de acuerdo
+    con las regulaciones de la Universidad.  /s/ Sergio Tiria.
 
